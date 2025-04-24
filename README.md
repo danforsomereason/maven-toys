@@ -2,6 +2,9 @@
 
 This is an interactive Excel dashboard built around fictional data from a toy company's regional sales managers. It tracks performance across time, filters dynamically by region, and highlights key business trends.
 
+![image](https://github.com/user-attachments/assets/0766c26b-aa16-4d7a-b7d8-ac5cd02bbfda)
+
+
 ## 📊 Project Overview
 
 The goal of this project was to explore and visualize sales trends for Regional Sales Managers across various U.S. regions. It compares monthly and year-over-year revenue trends, calculates KPIs, and displays performance through clean and strategic Excel visualizations.
